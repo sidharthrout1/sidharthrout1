@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⛩️ [YOUR NAME]'S TERMINAL ⛩️
+# ⛩️ Sidharth'S TERMINAL ⛩️
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=DEV_MODE_ACTIVE&fontSize=70" width="100%"/>
 
