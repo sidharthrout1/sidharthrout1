@@ -1,4 +1,4 @@
-# 🕹️ Welcome to [Your Name]'s Arcade
+# 🕹️ Welcome to Sidharth's Arcade
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SOFTWARE%20ENGINEER&fontSize=90" />
