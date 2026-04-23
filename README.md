@@ -1,58 +1,40 @@
 <div align="center">
 
-# ⛩️ SYSTEM ARCHITECT | OTAKU | DEVELOPER ⛩️
+# ⛩️ Sidharth'S TERMINAL ⛩️
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=250&section=header&text=USER_INITIALIZED&fontSize=70&fontAlignY=40&animation=twinkling&desc=SEARCHING%20FOR%20THE%20ONE%20PIECE...&descAlignY=60&descSize=20" width="100%"/>
-
----
-
-### 🟢 SYSTEM STATUS: ONLINE
-`CORE_STRENGTH:` **C/C++ & JAVA** | `Hobby_Logic:` **PYTHON/JS** | `Aesthetic:` **HTML/CSS**
-
-[ ⚡ ] **Level 20 Developer** | [ 🍕 ] **Code Eater** | [ 🎌 ] **Manga Collector**
-
----
-</div>
-
-## 🛠️ TECH ARSENAL
-
-### 💻 Low-Level & Logic
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### 🌐 Frontend Mastery
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=S-RANK%20DEVELOPER&fontSize=70&animation=fadeIn" width="100%"/>
 
 ---
 
-## 🧧 THE OTAKU DATABASE
-| Category | Favorites |
-| :--- | :--- |
-| **Manga** | *Berserk, Vagabond, Chainsaw Man* |
-| **Anime** | *Evangelion, Jujutsu Kaisen, Akira* |
-| **Gaming** | *Elden Ring, Retro Arcade, Cyberpunk 2077* |
+### 🧬 PROFILE DATA
+`ROLE:` **FULL-STACK ARCHITECT** | `ORIGIN:` **JAPAN** | `STAMINA:` **MAX**
 
 ---
 
-## 📊 TERMINAL STATISTICS
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=nightowl&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=nightowl&hide_border=true" width="45%"/>
-</div>
+### ⚔️ TECH ARSENAL
+
+| **Low Level** | **Web & Logic** | **Design** |
+| :--- | :--- | :--- |
+| ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) | ![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black) | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) |
+| ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) |
+| ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05033?logo=git&logoColor=white) | ![Manga](https://img.shields.io/badge/-Manga-000000?logo=manga&logoColor=white) |
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[YOUR-USERNAME]/[YOUR-USERNAME]/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[YOUR-USERNAME]/[YOUR-USERNAME]/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/[YOUR-USERNAME]/[YOUR-USERNAME]/output/github-contribution-grid-snake.svg">
-</picture>
+### 🏮 THE OTAKU VAULT
+**Anime:** *Jujutsu Kaisen, Blue Lock, Chainsaw Man* **Manga:** *Berserk, Vagabond, Vinland Saga* **Gaming:** *Retro Arcades, Elden Ring, Valorant*
 
-<div align="center">
-<img src="https://views.whatilearened.today/views/github/[YOUR-USERNAME]/views.svg" alt="Views" />
+---
+
+### 📊 SYSTEM PERFORMANCE
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="45%"/>
+
+---
+
+### 💬 LET'S SYNC
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlink)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](yourlink)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+
 </div>
